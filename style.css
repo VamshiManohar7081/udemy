@@ -83,8 +83,114 @@ h1{
     color: gray;
     font-size: 14px;
     
+
+    
     
 }
 #div3 span:hover{
 color: black;
+}
+#section2{
+    background-color: #f7f9fA;
+}
+#div4{
+    
+    padding-left: 88px;
+    padding-top: 30px;
+    padding-right: 80px;
+    display: flex;
+    justify-content: space-between;
+
+    
+    
+}
+#div41{
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    height: 60px;
+    background-color: #e4e8eb;
+    border-radius: 40px;
+   
+
+}
+
+#div41 p{
+    color:  #6a6f73;
+}
+#div41:hover{
+    color: white;
+    background-color: #2d2f31;
+}
+#div5{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 88px;
+    padding-right: 80px;
+    margin-top: 20px;
+
+}
+#card{
+   border: 1px solid black;
+   border-radius: 5px;
+   
+}
+#div151{
+  width: 200;
+
+}
+#div251{
+    padding: 15px;
+}
+#btnsection2{
+    margin-left: 100px;
+    margin-top: 30px;
+    height: 40px;
+    width: 300px;
+    font-weight: bolder;
+    background-color:#f7f9fA ;
+    border: 1px solid black;
+    font-size: medium;
+}
+#btnsection2:hover{
+    background-color: #c9ced3;
+}
+#section3 p{
+    color:#6a6f73; 
+    margin-top: 60px;
+    font-size: large;
+    
+}
+#section4{
+    background-color: #f7f9fA ;
+}
+#section4 h1{
+    margin-left: 80px;
+    font-family:serif;
+}
+#section4-1{
+    display: flex;
+}
+#section4-1-1{
+    display: flex;
+    border-left: 10px solid blueviolet;
+    border-top: 1px solid blueviolet;
+    border-bottom: 1px solid blueviolet;
+    border-right: 1px solid blueviolet;
+
+    margin-left: 80px;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-left: 10px;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    border-radius: 20px;
+}
+#section4-1-1:hover{
+    background-color: #96999c58;
+}
+
+#section4div1{
+    display: flex;
 }
